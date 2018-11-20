@@ -17,11 +17,6 @@ public class PractiseRestController {
 		ans = first + second;
 		
 		System.out.println(ans);
-		System.out.println(ans);
-		System.out.println(ans);
-		System.out.println(ans);
-		
-		
 				
 		return new Values(first, second, ans);
 		
