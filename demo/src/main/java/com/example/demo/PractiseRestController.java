@@ -16,6 +16,8 @@ public class PractiseRestController {
 		
 		ans = first + second;
 		
+		System.out.println("Hello");
+		
 		return new Values(first, second, ans);
 		
 	}
